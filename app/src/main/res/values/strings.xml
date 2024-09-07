@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">WhereKiddo</string>
+
+    //ONBOARDING SCREEN
+    <string name="on_boarding_screen_log_in_button">Log In</string>
+    <string name="on_boarding_screen_sign_up_button">Sign Up</string>
+
+    //LOGIN SCREEN
+    <string name="log_in_screen_title">Log In</string>
+    <string name="log_in_screen_email_label">Email</string>
+    <string name="log_in_screen_password_label">Password</string>
+    <string name="log_in_screen_log_in_button">Log In</string>
+    <string name="log_in_screen_dont_have_an_account">Don\'t have an account?</string>
+    <string name="log_in_screen_dont_have_an_account_press_here">Sign Up</string>
+
+    //SIGN UP SCREEN
+    <string name="sign_up_screen_title">Sign Up</string>
+    <string name="sign_up_screen_name_label">Name</string>
+    <string name="sign_up_screen_surname_label">Surname</string>
+    <string name="sign_up_screen_email_label">Email</string>
+    <string name="sign_up_screen_password_label">Password</string>
+    <string name="sign_up_screen_repeat_password_label">Repeat Password</string>
+    <string name="sign_up_screen_sign_up_button">Sign Up</string>
+    <string name="sign_up_screen_already_have_an_account">Already have an account?</string>
+    <string name="sign_up_screen_already_have_an_account_press_here">Log In</string>
+
+    //HOME SCREEN
+    <string name="home_screen_tracked_vehicle_header">Tracking Vehicle</string>
+    <string name="home_screen_driving_vehicle_header">Driving Vehicle</string>
+    <string name="home_screen_track_button">Track</string>
+    <string name="home_screen_location_button">Location</string>
+    <string name="home_screen_drive_button">Drive</string>
+    <string name="home_screen_vehicle_plates_label">Vehicle Plates</string>
+    <string name="home_screen_driver_name_label">Driver:</string>
+    <string name="home_screen_driver_contact_label">Contact:</string>
+
+    //TRACKING SCREEN
+    <string name="tracking_screen_no_plates_set_parent">No vehicle plates set, please set plates you wish to track!</string>
+    <string name="tracking_screen_no_plates_driver">No vehicle plates set, please set plates you wish to drive!</string>
+    <string name="tracking_screen_set_plates_button">Set Plates</string>
+
+    //PROFILE SCREEN
+    <string name="profile_screen_title">Profile</string>
+    <string name="profile_screen_log_out_button">Log Out</string>
+    <string name="profile_screen_name_label">Name:</string>
+    <string name="profile_screen_surname_label">Surname:</string>
+    <string name="profile_screen_email_label">Email:</string>
+
+    //BOTTOM NAV BAR
+    <string name="bottom_nav_bar_home">Home</string>
+    <string name="bottom_nav_bar_profile">Profile</string>
+    <string name="bottom_nav_bar_tracking">Tracking</string>
+
+    //ERRORS AND TOASTS
+    <string name="error_retry">Retry</string>
+    <string name="error_cant_be_empty">Can\'t be empty</string>
+    <string name="error_password_must_have_6_chars">Password must be at least 6 characters</string>
+    <string name="error_invalid_email">A valid email is required</string>
+    <string name="error_passwords_dont_match">Passwords don\'t match</string>
+    <string name="error_invalid_login">Invalid email or password</string>
+    <string name="error_invalid_signup">Something went wrong!</string>
+    <string name="error_invalid_logout">Error logging out! Please try again later</string>
+    <string name="error_generic">Something went wrong! Please try again later</string>
+    <string name="successful_changed_profile_picture_toast">Successfully changed profile picture!</string>
+
+</resources>
